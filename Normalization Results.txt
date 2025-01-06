@@ -1,0 +1,362 @@
+Query Retrieval Results:
+--------------------------------------------------
+
+Query: What safety measures should be implemented to prevent injuries during community sports events?
+
+With Normalization:
+Document 5: Similarity = 0.0819
+Document 7: Similarity = 0.0513
+Document 20: Similarity = 0.0504
+Document 1: Similarity = 0.0486
+
+Without Normalization:
+Document 5: Similarity = 0.0041
+Document 1: Similarity = 0.0030
+Document 7: Similarity = 0.0029
+Document 20: Similarity = 0.0025
+--------------------------------------------------
+
+Query: How can local governments balance the economic benefits of community events with the potential disruptions they may cause to residents?
+
+With Normalization:
+Document 9: Similarity = 0.1207
+Document 7: Similarity = 0.0717
+Document 1: Similarity = 0.0710
+Document 4: Similarity = 0.0478
+
+Without Normalization:
+Document 9: Similarity = 0.0060
+Document 1: Similarity = 0.0030
+Document 7: Similarity = 0.0028
+Document 4: Similarity = 0.0017
+--------------------------------------------------
+
+Query: What was the total weight of debris removed?
+
+With Normalization:
+Document 10: Similarity = 0.0868
+Document 16: Similarity = 0.0470
+Document 3: Similarity = 0.0363
+Document 18: Similarity = 0.0109
+
+Without Normalization:
+Document 10: Similarity = 0.0064
+Document 3: Similarity = 0.0037
+Document 16: Similarity = 0.0033
+Document 18: Similarity = 0.0009
+--------------------------------------------------
+
+Query: Who organized the community cleanup event?
+
+With Normalization:
+Document 19: Similarity = 0.0584
+Document 3: Similarity = 0.0536
+Document 10: Similarity = 0.0495
+Document 1: Similarity = 0.0105
+
+Without Normalization:
+Document 3: Similarity = 0.0057
+Document 10: Similarity = 0.0039
+Document 19: Similarity = 0.0038
+Document 1: Similarity = 0.0010
+--------------------------------------------------
+
+Query: What items were found during the cleanup?
+
+With Normalization:
+Document 10: Similarity = 0.1116
+Document 3: Similarity = 0.0536
+Document 19: Similarity = 0.0201
+Document 13: Similarity = 0.0162
+
+Without Normalization:
+Document 10: Similarity = 0.0081
+Document 3: Similarity = 0.0053
+Document 19: Similarity = 0.0012
+Document 13: Similarity = 0.0011
+--------------------------------------------------
+
+Query: What are the financial impacts of short-term rentals?
+
+With Normalization:
+Document 7: Similarity = 0.1071
+Document 9: Similarity = 0.0789
+Document 16: Similarity = 0.0164
+Document 6: Similarity = 0.0159
+
+Without Normalization:
+Document 7: Similarity = 0.0079
+Document 9: Similarity = 0.0074
+Document 16: Similarity = 0.0010
+Document 18: Similarity = 0.0009
+--------------------------------------------------
+
+Query: How do residents feel about rental regulations?
+
+With Normalization:
+Document 9: Similarity = 0.1148
+Document 7: Similarity = 0.0973
+Document 18: Similarity = 0.0473
+Document 16: Similarity = 0.0285
+
+Without Normalization:
+Document 9: Similarity = 0.0102
+Document 7: Similarity = 0.0068
+Document 18: Similarity = 0.0033
+Document 15: Similarity = 0.0024
+--------------------------------------------------
+
+Query: What challenges arise from rising housing costs?
+
+With Normalization:
+Document 12: Similarity = 0.0702
+Document 17: Similarity = 0.0627
+Document 14: Similarity = 0.0476
+Document 16: Similarity = 0.0407
+
+Without Normalization:
+Document 12: Similarity = 0.0049
+Document 17: Similarity = 0.0042
+Document 16: Similarity = 0.0031
+Document 14: Similarity = 0.0030
+--------------------------------------------------
+
+Query: How does housing instability affect mental health in communities?
+
+With Normalization:
+Document 12: Similarity = 0.0910
+Document 7: Similarity = 0.0715
+Document 19: Similarity = 0.0338
+Document 4: Similarity = 0.0297
+
+Without Normalization:
+Document 7: Similarity = 0.0061
+Document 12: Similarity = 0.0060
+Document 4: Similarity = 0.0023
+Document 19: Similarity = 0.0021
+--------------------------------------------------
+
+Query: What resources are available for supporting mental health in neighborhoods?
+
+With Normalization:
+Document 1: Similarity = 0.0671
+Document 12: Similarity = 0.0603
+Document 8: Similarity = 0.0418
+Document 19: Similarity = 0.0377
+
+Without Normalization:
+Document 1: Similarity = 0.0056
+Document 12: Similarity = 0.0036
+Document 8: Similarity = 0.0025
+Document 19: Similarity = 0.0021
+--------------------------------------------------
+
+Query: How can community connections mitigate challenges faced by residents?
+
+With Normalization:
+Document 2: Similarity = 0.1224
+Document 4: Similarity = 0.0367
+Document 19: Similarity = 0.0333
+Document 6: Similarity = 0.0326
+
+Without Normalization:
+Document 2: Similarity = 0.0128
+Document 4: Similarity = 0.0021
+Document 19: Similarity = 0.0016
+Document 6: Similarity = 0.0014
+--------------------------------------------------
+
+Query: What consequences did the reckless driver face after the chase?
+
+With Normalization:
+Document 12: Similarity = 0.1027
+Document 13: Similarity = 0.0769
+Document 20: Similarity = 0.0699
+Document 4: Similarity = 0.0267
+
+Without Normalization:
+Document 12: Similarity = 0.0066
+Document 20: Similarity = 0.0052
+Document 13: Similarity = 0.0052
+Document 4: Similarity = 0.0020
+--------------------------------------------------
+
+Query: How did Charlie Jenkins change after winning the lottery?
+
+With Normalization:
+Document 6: Similarity = 0.0892
+Document 13: Similarity = 0.0388
+Document 10: Similarity = 0.0263
+Document 4: Similarity = 0.0120
+
+Without Normalization:
+Document 6: Similarity = 0.0059
+Document 13: Similarity = 0.0031
+Document 10: Similarity = 0.0023
+Document 4: Similarity = 0.0011
+--------------------------------------------------
+
+Query: What impact did the book fair have on reading habits?
+
+With Normalization:
+Document 8: Similarity = 0.0807
+Document 13: Similarity = 0.0368
+Document 10: Similarity = 0.0293
+Document 11: Similarity = 0.0268
+
+Without Normalization:
+Document 8: Similarity = 0.0053
+Document 13: Similarity = 0.0026
+Document 11: Similarity = 0.0025
+Document 10: Similarity = 0.0022
+--------------------------------------------------
+
+Query: What strategies can be employed to enhance safety at community sports activities?
+
+With Normalization:
+Document 4: Similarity = 0.0488
+Document 16: Similarity = 0.0440
+Document 14: Similarity = 0.0294
+Document 1: Similarity = 0.0142
+
+Without Normalization:
+Document 4: Similarity = 0.0028
+Document 16: Similarity = 0.0023
+Document 14: Similarity = 0.0013
+Document 1: Similarity = 0.0010
+--------------------------------------------------
+
+Query: How can local authorities manage the trade-offs of community festivals for residents?
+
+With Normalization:
+Document 8: Similarity = 0.0452
+Document 14: Similarity = 0.0356
+Document 4: Similarity = 0.0269
+Document 12: Similarity = 0.0253
+
+Without Normalization:
+Document 8: Similarity = 0.0018
+Document 14: Similarity = 0.0014
+Document 4: Similarity = 0.0013
+Document 12: Similarity = 0.0011
+--------------------------------------------------
+
+Query: What was the total number of volunteers who participated in the cleanup event?
+
+With Normalization:
+Document 3: Similarity = 0.0916
+Document 10: Similarity = 0.0838
+Document 5: Similarity = 0.0317
+Document 4: Similarity = 0.0306
+
+Without Normalization:
+Document 3: Similarity = 0.0037
+Document 10: Similarity = 0.0025
+Document 5: Similarity = 0.0010
+Document 4: Similarity = 0.0009
+--------------------------------------------------
+
+Query: Who led the organization of the neighborhood recycling initiative?
+
+With Normalization:
+Document 2: Similarity = 0.0989
+Document 10: Similarity = 0.0579
+Document 12: Similarity = 0.0292
+Document 5: Similarity = 0.0159
+
+Without Normalization:
+Document 2: Similarity = 0.0116
+Document 10: Similarity = 0.0036
+Document 12: Similarity = 0.0016
+Document 5: Similarity = 0.0010
+--------------------------------------------------
+
+Query: What unusual items were discovered during the community cleanup drive?
+
+With Normalization:
+Document 10: Similarity = 0.0734
+Document 19: Similarity = 0.0574
+Document 3: Similarity = 0.0530
+Document 16: Similarity = 0.0411
+
+Without Normalization:
+Document 10: Similarity = 0.0055
+Document 3: Similarity = 0.0054
+Document 19: Similarity = 0.0036
+Document 16: Similarity = 0.0029
+--------------------------------------------------
+
+Query: What economic effects are associated with the rise of short-term vacation rentals?
+
+With Normalization:
+Document 7: Similarity = 0.1688
+Document 9: Similarity = 0.0376
+Document 16: Similarity = 0.0310
+Document 4: Similarity = 0.0256
+
+Without Normalization:
+Document 7: Similarity = 0.0118
+Document 9: Similarity = 0.0033
+Document 16: Similarity = 0.0018
+Document 4: Similarity = 0.0016
+--------------------------------------------------
+
+Query: How do community members perceive the new housing regulations?
+
+With Normalization:
+Document 7: Similarity = 0.0735
+Document 12: Similarity = 0.0588
+Document 9: Similarity = 0.0585
+Document 17: Similarity = 0.0379
+
+Without Normalization:
+Document 9: Similarity = 0.0044
+Document 7: Similarity = 0.0044
+Document 15: Similarity = 0.0030
+Document 12: Similarity = 0.0027
+--------------------------------------------------
+
+Query: What difficulties do families face due to increasing housing expenses?
+
+With Normalization:
+Document 17: Similarity = 0.0707
+Document 7: Similarity = 0.0507
+Document 16: Similarity = 0.0455
+Document 4: Similarity = 0.0446
+
+Without Normalization:
+Document 17: Similarity = 0.0041
+Document 7: Similarity = 0.0040
+Document 4: Similarity = 0.0032
+Document 16: Similarity = 0.0030
+--------------------------------------------------
+
+Query: In what ways does unstable housing influence the psychological well-being of individuals?
+
+With Normalization:
+Document 12: Similarity = 0.0612
+Document 4: Similarity = 0.0600
+Document 14: Similarity = 0.0277
+Document 8: Similarity = 0.0273
+
+Without Normalization:
+Document 4: Similarity = 0.0034
+Document 12: Similarity = 0.0030
+Document 18: Similarity = 0.0016
+Document 20: Similarity = 0.0014
+--------------------------------------------------
+
+Query: What services exist to promote mental wellness in local communities?
+
+With Normalization:
+Document 12: Similarity = 0.0571
+Document 14: Similarity = 0.0564
+Document 4: Similarity = 0.0288
+Document 19: Similarity = 0.0286
+
+Without Normalization:
+Document 12: Similarity = 0.0033
+Document 14: Similarity = 0.0030
+Document 4: Similarity = 0.0020
+Document 19: Similarity = 0.0016
+--------------------------------------------------

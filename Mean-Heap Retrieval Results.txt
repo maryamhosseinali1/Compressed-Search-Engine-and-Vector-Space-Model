@@ -1,0 +1,1327 @@
+Query: What safety measures should be implemented to prevent injuries during community sports events?
+Top Retrieved Documents:
+Document 1: Relevance Score = 0.0028
+Document 5: Relevance Score = 0.0025
+Document 7: Relevance Score = 0.0023
+Document 20: Relevance Score = 0.0018
+
+Retrieved Document Term Contributions:
+
+Document 1 Term Breakdown:
+  - measures: 0.0101
+  - safety: 0.0075
+  - events: 0.0066
+  - during: 0.0057
+  - community: 0.0022
+  - be: 0.0014
+  - what: 0.0000
+  - should: 0.0000
+  - implemented: 0.0000
+  - to: 0.0000
+  - prevent: 0.0000
+  - injuries: 0.0000
+
+Document 5 Term Breakdown:
+  - injuries: 0.0107
+  - measures: 0.0057
+  - safety: 0.0043
+  - events: 0.0037
+  - during: 0.0033
+  - community: 0.0013
+  - be: 0.0008
+  - what: 0.0000
+  - should: 0.0000
+  - implemented: 0.0000
+  - to: 0.0000
+  - prevent: 0.0000
+
+Document 7 Term Breakdown:
+  - implemented: 0.0083
+  - measures: 0.0070
+  - safety: 0.0053
+  - during: 0.0040
+  - community: 0.0016
+  - be: 0.0010
+  - what: 0.0000
+  - should: 0.0000
+  - to: 0.0000
+  - prevent: 0.0000
+  - injuries: 0.0000
+  - events: 0.0000
+
+Document 20 Term Breakdown:
+  - prevent: 0.0073
+  - measures: 0.0051
+  - safety: 0.0038
+  - during: 0.0029
+  - community: 0.0011
+  - be: 0.0007
+  - what: 0.0000
+  - should: 0.0000
+  - implemented: 0.0000
+  - to: 0.0000
+  - injuries: 0.0000
+  - events: 0.0000
+--------------------------------------------------
+
+Query: How can local governments balance the economic benefits of community events with the potential disruptions they may cause to residents?
+Top Retrieved Documents:
+Document 9: Relevance Score = 0.0031
+Document 1: Relevance Score = 0.0021
+Document 7: Relevance Score = 0.0018
+Document 4: Relevance Score = 0.0014
+
+Retrieved Document Term Contributions:
+
+Document 9 Term Breakdown:
+  - disruptions: 0.0220
+  - benefits: 0.0169
+  - potential: 0.0067
+  - residents: 0.0067
+  - can: 0.0032
+  - community: 0.0026
+  - how: 0.0000
+  - local: 0.0000
+  - balance: 0.0000
+  - the: 0.0000
+  - economic: 0.0000
+  - of: 0.0000
+  - events: 0.0000
+  - with: 0.0000
+  - the: 0.0000
+  - they: 0.0000
+  - may: 0.0000
+  - cause: 0.0000
+  - to: 0.0000
+
+Document 1 Term Breakdown:
+  - balance: 0.0144
+  - cause: 0.0101
+  - events: 0.0066
+  - can: 0.0027
+  - local: 0.0027
+  - community: 0.0022
+  - with: 0.0007
+  - how: 0.0000
+  - the: 0.0000
+  - economic: 0.0000
+  - benefits: 0.0000
+  - of: 0.0000
+  - the: 0.0000
+  - potential: 0.0000
+  - disruptions: 0.0000
+  - they: 0.0000
+  - may: 0.0000
+  - to: 0.0000
+  - residents: 0.0000
+
+Document 7 Term Breakdown:
+  - economic: 0.0101
+  - benefits: 0.0101
+  - potential: 0.0040
+  - residents: 0.0040
+  - can: 0.0019
+  - local: 0.0019
+  - community: 0.0016
+  - with: 0.0005
+  - how: 0.0000
+  - balance: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - events: 0.0000
+  - the: 0.0000
+  - disruptions: 0.0000
+  - they: 0.0000
+  - may: 0.0000
+  - cause: 0.0000
+  - to: 0.0000
+
+Document 4 Term Breakdown:
+  - economic: 0.0082
+  - events: 0.0037
+  - may: 0.0037
+  - residents: 0.0033
+  - how: 0.0025
+  - can: 0.0015
+  - local: 0.0015
+  - community: 0.0013
+  - they: 0.0013
+  - with: 0.0004
+  - balance: 0.0000
+  - the: 0.0000
+  - benefits: 0.0000
+  - of: 0.0000
+  - the: 0.0000
+  - potential: 0.0000
+  - disruptions: 0.0000
+  - cause: 0.0000
+  - to: 0.0000
+--------------------------------------------------
+
+Query: What was the total weight of debris removed?
+Top Retrieved Documents:
+Document 10: Relevance Score = 0.0029
+Document 3: Relevance Score = 0.0020
+Document 16: Relevance Score = 0.0014
+Document 18: Relevance Score = 0.0010
+
+Retrieved Document Term Contributions:
+
+Document 10 Term Breakdown:
+  - removed: 0.0107
+  - debris: 0.0083
+  - was: 0.0010
+  - what: 0.0000
+  - the: 0.0000
+  - weight: 0.0000
+  - of: 0.0000
+
+Document 3 Term Breakdown:
+  - debris: 0.0127
+  - was: 0.0016
+  - what: 0.0000
+  - the: 0.0000
+  - weight: 0.0000
+  - of: 0.0000
+  - removed: 0.0000
+
+Document 16 Term Breakdown:
+  - weight: 0.0088
+  - was: 0.0008
+  - what: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - debris: 0.0000
+  - removed: 0.0000
+
+Document 18 Term Breakdown:
+  - what: 0.0057
+  - was: 0.0014
+  - the: 0.0000
+  - weight: 0.0000
+  - of: 0.0000
+  - debris: 0.0000
+  - removed: 0.0000
+--------------------------------------------------
+
+Query: Who organized the community cleanup event?
+Top Retrieved Documents:
+Document 3: Relevance Score = 0.0033
+Document 10: Relevance Score = 0.0024
+Document 19: Relevance Score = 0.0018
+Document 1: Relevance Score = 0.0013
+
+Retrieved Document Term Contributions:
+
+Document 3 Term Breakdown:
+  - cleanup: 0.0127
+  - event: 0.0050
+  - community: 0.0020
+  - who: 0.0000
+  - organized: 0.0000
+  - the: 0.0000
+
+Document 10 Term Breakdown:
+  - cleanup: 0.0083
+  - event: 0.0033
+  - who: 0.0015
+  - community: 0.0013
+  - organized: 0.0000
+  - the: 0.0000
+
+Document 19 Term Breakdown:
+  - organized: 0.0068
+  - event: 0.0021
+  - who: 0.0010
+  - community: 0.0008
+  - the: 0.0000
+  - cleanup: 0.0000
+
+Document 1 Term Breakdown:
+  - event: 0.0057
+  - community: 0.0022
+  - who: 0.0000
+  - organized: 0.0000
+  - the: 0.0000
+  - cleanup: 0.0000
+--------------------------------------------------
+
+Query: What items were found during the cleanup?
+Top Retrieved Documents:
+Document 10: Relevance Score = 0.0036
+Document 3: Relevance Score = 0.0032
+Document 19: Relevance Score = 0.0012
+Document 7: Relevance Score = 0.0011
+
+Retrieved Document Term Contributions:
+
+Document 10 Term Breakdown:
+  - items: 0.0107
+  - cleanup: 0.0083
+  - were: 0.0033
+  - found: 0.0029
+  - what: 0.0000
+  - during: 0.0000
+  - the: 0.0000
+
+Document 3 Term Breakdown:
+  - cleanup: 0.0127
+  - were: 0.0050
+  - found: 0.0044
+  - what: 0.0000
+  - items: 0.0000
+  - during: 0.0000
+  - the: 0.0000
+
+Document 19 Term Breakdown:
+  - what: 0.0027
+  - were: 0.0021
+  - during: 0.0021
+  - found: 0.0018
+  - items: 0.0000
+  - the: 0.0000
+  - cleanup: 0.0000
+
+Document 7 Term Breakdown:
+  - during: 0.0040
+  - found: 0.0035
+  - what: 0.0000
+  - items: 0.0000
+  - were: 0.0000
+  - the: 0.0000
+  - cleanup: 0.0000
+--------------------------------------------------
+
+Query: What are the financial impacts of short-term rentals?
+Top Retrieved Documents:
+Document 9: Relevance Score = 0.0045
+Document 7: Relevance Score = 0.0035
+Document 18: Relevance Score = 0.0011
+Document 16: Relevance Score = 0.0008
+
+Retrieved Document Term Contributions:
+
+Document 9 Term Breakdown:
+  - rentals: 0.0169
+  - financial: 0.0118
+  - are: 0.0026
+  - what: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - shortterm: 0.0000
+
+Document 7 Term Breakdown:
+  - shortterm: 0.0131
+  - rentals: 0.0101
+  - are: 0.0016
+  - what: 0.0000
+  - the: 0.0000
+  - financial: 0.0000
+  - of: 0.0000
+
+Document 18 Term Breakdown:
+  - what: 0.0057
+  - are: 0.0017
+  - the: 0.0000
+  - financial: 0.0000
+  - of: 0.0000
+  - shortterm: 0.0000
+  - rentals: 0.0000
+
+Document 16 Term Breakdown:
+  - financial: 0.0047
+  - are: 0.0010
+  - what: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - shortterm: 0.0000
+  - rentals: 0.0000
+--------------------------------------------------
+
+Query: How do residents feel about rental regulations?
+Top Retrieved Documents:
+Document 9: Relevance Score = 0.0054
+Document 7: Relevance Score = 0.0040
+Document 18: Relevance Score = 0.0022
+Document 15: Relevance Score = 0.0020
+
+Retrieved Document Term Contributions:
+
+Document 9 Term Breakdown:
+  - regulations: 0.0169
+  - rental: 0.0139
+  - residents: 0.0067
+  - how: 0.0000
+  - do: 0.0000
+  - feel: 0.0000
+  - about: 0.0000
+
+Document 7 Term Breakdown:
+  - regulations: 0.0101
+  - rental: 0.0083
+  - feel: 0.0046
+  - residents: 0.0040
+  - about: 0.0013
+  - how: 0.0000
+  - do: 0.0000
+
+Document 18 Term Breakdown:
+  - rental: 0.0090
+  - feel: 0.0050
+  - about: 0.0014
+  - how: 0.0000
+  - do: 0.0000
+  - residents: 0.0000
+  - regulations: 0.0000
+
+Document 15 Term Breakdown:
+  - do: 0.0142
+  - how: 0.0000
+  - residents: 0.0000
+  - feel: 0.0000
+  - about: 0.0000
+  - rental: 0.0000
+  - regulations: 0.0000
+--------------------------------------------------
+
+Query: What challenges arise from rising housing costs?
+Top Retrieved Documents:
+Document 12: Relevance Score = 0.0030
+Document 17: Relevance Score = 0.0027
+Document 16: Relevance Score = 0.0019
+Document 14: Relevance Score = 0.0014
+
+Retrieved Document Term Contributions:
+
+Document 12 Term Breakdown:
+  - rising: 0.0059
+  - housing: 0.0059
+  - costs: 0.0050
+  - challenges: 0.0033
+  - from: 0.0009
+  - what: 0.0000
+  - arise: 0.0000
+
+Document 17 Term Breakdown:
+  - rising: 0.0045
+  - housing: 0.0045
+  - costs: 0.0038
+  - what: 0.0028
+  - challenges: 0.0025
+  - from: 0.0007
+  - arise: 0.0000
+
+Document 16 Term Breakdown:
+  - rising: 0.0056
+  - costs: 0.0047
+  - challenges: 0.0031
+  - what: 0.0000
+  - arise: 0.0000
+  - from: 0.0000
+  - housing: 0.0000
+
+Document 14 Term Breakdown:
+  - arise: 0.0050
+  - costs: 0.0027
+  - challenges: 0.0017
+  - from: 0.0005
+  - what: 0.0000
+  - rising: 0.0000
+  - housing: 0.0000
+--------------------------------------------------
+
+Query: How does housing instability affect mental health in communities?
+Top Retrieved Documents:
+Document 12: Relevance Score = 0.0035
+Document 7: Relevance Score = 0.0027
+Document 4: Relevance Score = 0.0014
+Document 19: Relevance Score = 0.0013
+
+Retrieved Document Term Contributions:
+
+Document 12 Term Breakdown:
+  - mental: 0.0072
+  - communities: 0.0072
+  - housing: 0.0059
+  - health: 0.0050
+  - how: 0.0022
+  - in: 0.0002
+  - does: 0.0000
+  - instability: 0.0000
+
+Document 7 Term Breakdown:
+  - instability: 0.0131
+  - housing: 0.0083
+  - in: 0.0002
+  - how: 0.0000
+  - does: 0.0000
+  - mental: 0.0000
+  - health: 0.0000
+  - communities: 0.0000
+
+Document 4 Term Breakdown:
+  - communities: 0.0082
+  - how: 0.0025
+  - in: 0.0002
+  - does: 0.0000
+  - housing: 0.0000
+  - instability: 0.0000
+  - mental: 0.0000
+  - health: 0.0000
+
+Document 19 Term Breakdown:
+  - mental: 0.0052
+  - health: 0.0036
+  - how: 0.0016
+  - in: 0.0001
+  - does: 0.0000
+  - housing: 0.0000
+  - instability: 0.0000
+  - communities: 0.0000
+--------------------------------------------------
+
+Query: What resources are available for supporting mental health in neighborhoods?
+Top Retrieved Documents:
+Document 12: Relevance Score = 0.0019
+Document 1: Relevance Score = 0.0019
+Document 19: Relevance Score = 0.0013
+Document 4: Relevance Score = 0.0012
+
+Retrieved Document Term Contributions:
+
+Document 12 Term Breakdown:
+  - mental: 0.0072
+  - neighborhoods: 0.0059
+  - health: 0.0050
+  - are: 0.0011
+  - in: 0.0002
+  - what: 0.0000
+  - resources: 0.0000
+  - available: 0.0000
+  - for: 0.0000
+  - supporting: 0.0000
+
+Document 1 Term Breakdown:
+  - supporting: 0.0187
+  - in: 0.0003
+  - what: 0.0000
+  - resources: 0.0000
+  - are: 0.0000
+  - available: 0.0000
+  - for: 0.0000
+  - mental: 0.0000
+  - health: 0.0000
+  - neighborhoods: 0.0000
+
+Document 19 Term Breakdown:
+  - mental: 0.0052
+  - health: 0.0036
+  - what: 0.0027
+  - are: 0.0008
+  - in: 0.0001
+  - resources: 0.0000
+  - available: 0.0000
+  - for: 0.0000
+  - supporting: 0.0000
+  - neighborhoods: 0.0000
+
+Document 4 Term Breakdown:
+  - neighborhoods: 0.0068
+  - resources: 0.0043
+  - are: 0.0013
+  - in: 0.0002
+  - what: 0.0000
+  - available: 0.0000
+  - for: 0.0000
+  - supporting: 0.0000
+  - mental: 0.0000
+  - health: 0.0000
+--------------------------------------------------
+
+Query: How can community connections mitigate challenges faced by residents?
+Top Retrieved Documents:
+Document 2: Relevance Score = 0.0054
+Document 4: Relevance Score = 0.0021
+Document 9: Relevance Score = 0.0016
+Document 19: Relevance Score = 0.0013
+
+Retrieved Document Term Contributions:
+
+Document 2 Term Breakdown:
+  - mitigate: 0.0348
+  - residents: 0.0107
+  - by: 0.0033
+  - how: 0.0000
+  - can: 0.0000
+  - community: 0.0000
+  - connections: 0.0000
+  - challenges: 0.0000
+  - faced: 0.0000
+
+Document 4 Term Breakdown:
+  - connections: 0.0057
+  - challenges: 0.0037
+  - residents: 0.0033
+  - how: 0.0025
+  - can: 0.0015
+  - community: 0.0013
+  - by: 0.0010
+  - mitigate: 0.0000
+  - faced: 0.0000
+
+Document 9 Term Breakdown:
+  - residents: 0.0067
+  - can: 0.0032
+  - community: 0.0026
+  - by: 0.0021
+  - how: 0.0000
+  - connections: 0.0000
+  - mitigate: 0.0000
+  - challenges: 0.0000
+  - faced: 0.0000
+
+Document 19 Term Breakdown:
+  - faced: 0.0043
+  - challenges: 0.0024
+  - residents: 0.0021
+  - how: 0.0016
+  - community: 0.0008
+  - by: 0.0007
+  - can: 0.0000
+  - connections: 0.0000
+  - mitigate: 0.0000
+--------------------------------------------------
+
+Query: What consequences did the reckless driver face after the chase?
+Top Retrieved Documents:
+Document 12: Relevance Score = 0.0029
+Document 20: Relevance Score = 0.0024
+Document 13: Relevance Score = 0.0023
+Document 4: Relevance Score = 0.0010
+
+Retrieved Document Term Contributions:
+
+Document 12 Term Breakdown:
+  - consequences: 0.0072
+  - reckless: 0.0072
+  - driver: 0.0072
+  - chase: 0.0072
+  - what: 0.0000
+  - did: 0.0000
+  - the: 0.0000
+  - face: 0.0000
+  - after: 0.0000
+  - the: 0.0000
+
+Document 20 Term Breakdown:
+  - reckless: 0.0073
+  - driver: 0.0073
+  - chase: 0.0073
+  - after: 0.0019
+  - what: 0.0000
+  - consequences: 0.0000
+  - did: 0.0000
+  - the: 0.0000
+  - face: 0.0000
+  - the: 0.0000
+
+Document 13 Term Breakdown:
+  - did: 0.0072
+  - consequences: 0.0055
+  - face: 0.0055
+  - what: 0.0029
+  - after: 0.0014
+  - the: 0.0000
+  - reckless: 0.0000
+  - driver: 0.0000
+  - the: 0.0000
+  - chase: 0.0000
+
+Document 4 Term Breakdown:
+  - face: 0.0082
+  - after: 0.0021
+  - what: 0.0000
+  - consequences: 0.0000
+  - did: 0.0000
+  - the: 0.0000
+  - reckless: 0.0000
+  - driver: 0.0000
+  - the: 0.0000
+  - chase: 0.0000
+--------------------------------------------------
+
+Query: How did Charlie Jenkins change after winning the lottery?
+Top Retrieved Documents:
+Document 6: Relevance Score = 0.0023
+Document 13: Relevance Score = 0.0015
+Document 10: Relevance Score = 0.0012
+Document 4: Relevance Score = 0.0011
+
+Retrieved Document Term Contributions:
+
+Document 6 Term Breakdown:
+  - charlie: 0.0045
+  - winning: 0.0045
+  - lottery: 0.0045
+  - jenkins: 0.0035
+  - change: 0.0021
+  - how: 0.0010
+  - after: 0.0009
+  - did: 0.0000
+  - the: 0.0000
+
+Document 13 Term Breakdown:
+  - did: 0.0072
+  - change: 0.0033
+  - how: 0.0017
+  - after: 0.0014
+  - charlie: 0.0000
+  - jenkins: 0.0000
+  - winning: 0.0000
+  - the: 0.0000
+  - lottery: 0.0000
+
+Document 10 Term Breakdown:
+  - jenkins: 0.0083
+  - how: 0.0025
+  - did: 0.0000
+  - charlie: 0.0000
+  - change: 0.0000
+  - after: 0.0000
+  - winning: 0.0000
+  - the: 0.0000
+  - lottery: 0.0000
+
+Document 4 Term Breakdown:
+  - change: 0.0049
+  - how: 0.0025
+  - after: 0.0021
+  - did: 0.0000
+  - charlie: 0.0000
+  - jenkins: 0.0000
+  - winning: 0.0000
+  - the: 0.0000
+  - lottery: 0.0000
+--------------------------------------------------
+
+Query: What impact did the book fair have on reading habits?
+Top Retrieved Documents:
+Document 8: Relevance Score = 0.0023
+Document 10: Relevance Score = 0.0012
+Document 11: Relevance Score = 0.0012
+Document 16: Relevance Score = 0.0011
+
+Retrieved Document Term Contributions:
+
+Document 8 Term Breakdown:
+  - fair: 0.0062
+  - reading: 0.0062
+  - book: 0.0047
+  - what: 0.0025
+  - impact: 0.0019
+  - have: 0.0009
+  - on: 0.0003
+  - did: 0.0000
+  - the: 0.0000
+  - habits: 0.0000
+
+Document 10 Term Breakdown:
+  - habits: 0.0083
+  - impact: 0.0033
+  - on: 0.0006
+  - what: 0.0000
+  - did: 0.0000
+  - the: 0.0000
+  - book: 0.0000
+  - fair: 0.0000
+  - have: 0.0000
+  - reading: 0.0000
+
+Document 11 Term Breakdown:
+  - book: 0.0109
+  - on: 0.0008
+  - what: 0.0000
+  - impact: 0.0000
+  - did: 0.0000
+  - the: 0.0000
+  - fair: 0.0000
+  - have: 0.0000
+  - reading: 0.0000
+  - habits: 0.0000
+
+Document 16 Term Breakdown:
+  - habits: 0.0068
+  - impact: 0.0027
+  - have: 0.0013
+  - on: 0.0005
+  - what: 0.0000
+  - did: 0.0000
+  - the: 0.0000
+  - book: 0.0000
+  - fair: 0.0000
+  - reading: 0.0000
+--------------------------------------------------
+
+Query: What strategies can be employed to enhance safety at community sports activities?
+Top Retrieved Documents:
+Document 1: Relevance Score = 0.0015
+Document 4: Relevance Score = 0.0014
+Document 16: Relevance Score = 0.0012
+Document 7: Relevance Score = 0.0010
+
+Retrieved Document Term Contributions:
+
+Document 1 Term Breakdown:
+  - safety: 0.0075
+  - can: 0.0027
+  - community: 0.0022
+  - be: 0.0014
+  - at: 0.0010
+  - what: 0.0000
+  - strategies: 0.0000
+  - to: 0.0000
+  - enhance: 0.0000
+  - activities: 0.0000
+
+Document 4 Term Breakdown:
+  - activities: 0.0107
+  - can: 0.0015
+  - community: 0.0013
+  - at: 0.0006
+  - what: 0.0000
+  - strategies: 0.0000
+  - be: 0.0000
+  - to: 0.0000
+  - enhance: 0.0000
+  - safety: 0.0000
+
+Document 16 Term Breakdown:
+  - strategies: 0.0088
+  - can: 0.0013
+  - community: 0.0010
+  - be: 0.0007
+  - at: 0.0005
+  - what: 0.0000
+  - to: 0.0000
+  - enhance: 0.0000
+  - safety: 0.0000
+  - activities: 0.0000
+
+Document 7 Term Breakdown:
+  - safety: 0.0053
+  - can: 0.0019
+  - community: 0.0016
+  - be: 0.0010
+  - at: 0.0007
+  - what: 0.0000
+  - strategies: 0.0000
+  - to: 0.0000
+  - enhance: 0.0000
+  - activities: 0.0000
+--------------------------------------------------
+
+Query: How can local authorities manage the trade-offs of community festivals for residents?
+Top Retrieved Documents:
+Document 4: Relevance Score = 0.0014
+Document 9: Relevance Score = 0.0011
+Document 8: Relevance Score = 0.0011
+Document 12: Relevance Score = 0.0010
+
+Retrieved Document Term Contributions:
+
+Document 4 Term Breakdown:
+  - authorities: 0.0057
+  - residents: 0.0033
+  - how: 0.0025
+  - can: 0.0015
+  - local: 0.0015
+  - community: 0.0013
+  - manage: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - festivals: 0.0000
+  - for: 0.0000
+
+Document 9 Term Breakdown:
+  - residents: 0.0067
+  - can: 0.0032
+  - community: 0.0026
+  - how: 0.0000
+  - local: 0.0000
+  - authorities: 0.0000
+  - manage: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - festivals: 0.0000
+  - for: 0.0000
+
+Document 8 Term Breakdown:
+  - festivals: 0.0062
+  - residents: 0.0019
+  - how: 0.0014
+  - can: 0.0009
+  - local: 0.0009
+  - community: 0.0007
+  - authorities: 0.0000
+  - manage: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - for: 0.0000
+
+Document 12 Term Breakdown:
+  - authorities: 0.0050
+  - residents: 0.0029
+  - how: 0.0022
+  - community: 0.0011
+  - can: 0.0000
+  - local: 0.0000
+  - manage: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - festivals: 0.0000
+  - for: 0.0000
+--------------------------------------------------
+
+Query: What was the total number of volunteers who participated in the cleanup event?
+Top Retrieved Documents:
+Document 3: Relevance Score = 0.0028
+Document 10: Relevance Score = 0.0020
+Document 5: Relevance Score = 0.0010
+Document 18: Relevance Score = 0.0009
+
+Retrieved Document Term Contributions:
+
+Document 3 Term Breakdown:
+  - cleanup: 0.0127
+  - volunteers: 0.0088
+  - event: 0.0050
+  - was: 0.0016
+  - in: 0.0003
+  - what: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - who: 0.0000
+  - the: 0.0000
+
+Document 10 Term Breakdown:
+  - cleanup: 0.0083
+  - volunteers: 0.0058
+  - event: 0.0033
+  - who: 0.0015
+  - was: 0.0010
+  - in: 0.0002
+  - what: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - the: 0.0000
+
+Document 5 Term Breakdown:
+  - volunteers: 0.0057
+  - event: 0.0033
+  - was: 0.0010
+  - in: 0.0002
+  - what: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - who: 0.0000
+  - the: 0.0000
+  - cleanup: 0.0000
+
+Document 18 Term Breakdown:
+  - what: 0.0057
+  - who: 0.0021
+  - was: 0.0014
+  - in: 0.0002
+  - the: 0.0000
+  - of: 0.0000
+  - volunteers: 0.0000
+  - the: 0.0000
+  - cleanup: 0.0000
+  - event: 0.0000
+--------------------------------------------------
+
+Query: Who led the organization of the neighborhood recycling initiative?
+Top Retrieved Documents:
+Document 2: Relevance Score = 0.0044
+Document 10: Relevance Score = 0.0015
+Document 12: Relevance Score = 0.0013
+Document 20: Relevance Score = 0.0007
+
+Retrieved Document Term Contributions:
+
+Document 2 Term Breakdown:
+  - initiative: 0.0348
+  - who: 0.0000
+  - led: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - the: 0.0000
+  - neighborhood: 0.0000
+  - recycling: 0.0000
+
+Document 10 Term Breakdown:
+  - recycling: 0.0107
+  - who: 0.0015
+  - led: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - the: 0.0000
+  - neighborhood: 0.0000
+  - initiative: 0.0000
+
+Document 12 Term Breakdown:
+  - led: 0.0050
+  - neighborhood: 0.0043
+  - who: 0.0013
+  - the: 0.0000
+  - of: 0.0000
+  - the: 0.0000
+  - recycling: 0.0000
+  - initiative: 0.0000
+
+Document 20 Term Breakdown:
+  - neighborhood: 0.0044
+  - who: 0.0014
+  - led: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - the: 0.0000
+  - recycling: 0.0000
+  - initiative: 0.0000
+--------------------------------------------------
+
+Query: What unusual items were discovered during the community cleanup drive?
+Top Retrieved Documents:
+Document 3: Relevance Score = 0.0030
+Document 10: Relevance Score = 0.0024
+Document 19: Relevance Score = 0.0019
+Document 16: Relevance Score = 0.0013
+
+Retrieved Document Term Contributions:
+
+Document 3 Term Breakdown:
+  - cleanup: 0.0127
+  - discovered: 0.0104
+  - were: 0.0050
+  - community: 0.0020
+  - what: 0.0000
+  - unusual: 0.0000
+  - items: 0.0000
+  - during: 0.0000
+  - the: 0.0000
+  - drive: 0.0000
+
+Document 10 Term Breakdown:
+  - items: 0.0107
+  - cleanup: 0.0083
+  - were: 0.0033
+  - community: 0.0013
+  - what: 0.0000
+  - unusual: 0.0000
+  - discovered: 0.0000
+  - during: 0.0000
+  - the: 0.0000
+  - drive: 0.0000
+
+Document 19 Term Breakdown:
+  - unusual: 0.0068
+  - discovered: 0.0043
+  - what: 0.0027
+  - were: 0.0021
+  - during: 0.0021
+  - community: 0.0008
+  - items: 0.0000
+  - the: 0.0000
+  - cleanup: 0.0000
+  - drive: 0.0000
+
+Document 16 Term Breakdown:
+  - drive: 0.0088
+  - were: 0.0027
+  - community: 0.0010
+  - what: 0.0000
+  - unusual: 0.0000
+  - items: 0.0000
+  - discovered: 0.0000
+  - during: 0.0000
+  - the: 0.0000
+  - cleanup: 0.0000
+--------------------------------------------------
+
+Query: What economic effects are associated with the rise of short-term vacation rentals?
+Top Retrieved Documents:
+Document 7: Relevance Score = 0.0051
+Document 9: Relevance Score = 0.0018
+Document 16: Relevance Score = 0.0011
+Document 4: Relevance Score = 0.0009
+
+Retrieved Document Term Contributions:
+
+Document 7 Term Breakdown:
+  - associated: 0.0131
+  - shortterm: 0.0131
+  - economic: 0.0101
+  - rentals: 0.0101
+  - rise: 0.0083
+  - are: 0.0016
+  - with: 0.0005
+  - what: 0.0000
+  - effects: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+
+Document 9 Term Breakdown:
+  - rentals: 0.0169
+  - are: 0.0026
+  - what: 0.0000
+  - economic: 0.0000
+  - effects: 0.0000
+  - associated: 0.0000
+  - with: 0.0000
+  - the: 0.0000
+  - rise: 0.0000
+  - of: 0.0000
+  - shortterm: 0.0000
+
+Document 16 Term Breakdown:
+  - effects: 0.0056
+  - rise: 0.0056
+  - are: 0.0010
+  - with: 0.0003
+  - what: 0.0000
+  - economic: 0.0000
+  - associated: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+  - shortterm: 0.0000
+  - rentals: 0.0000
+
+Document 4 Term Breakdown:
+  - economic: 0.0082
+  - are: 0.0013
+  - with: 0.0004
+  - what: 0.0000
+  - effects: 0.0000
+  - associated: 0.0000
+  - the: 0.0000
+  - rise: 0.0000
+  - of: 0.0000
+  - shortterm: 0.0000
+  - rentals: 0.0000
+--------------------------------------------------
+
+Query: How do community members perceive the new housing regulations?
+Top Retrieved Documents:
+Document 15: Relevance Score = 0.0031
+Document 7: Relevance Score = 0.0025
+Document 9: Relevance Score = 0.0024
+Document 12: Relevance Score = 0.0019
+
+Retrieved Document Term Contributions:
+
+Document 15 Term Breakdown:
+  - do: 0.0142
+  - new: 0.0108
+  - how: 0.0000
+  - community: 0.0000
+  - members: 0.0000
+  - the: 0.0000
+  - housing: 0.0000
+  - regulations: 0.0000
+
+Document 7 Term Breakdown:
+  - regulations: 0.0101
+  - housing: 0.0083
+  - community: 0.0016
+  - how: 0.0000
+  - do: 0.0000
+  - members: 0.0000
+  - the: 0.0000
+  - new: 0.0000
+
+Document 9 Term Breakdown:
+  - regulations: 0.0169
+  - community: 0.0026
+  - how: 0.0000
+  - do: 0.0000
+  - members: 0.0000
+  - the: 0.0000
+  - new: 0.0000
+  - housing: 0.0000
+
+Document 12 Term Breakdown:
+  - members: 0.0059
+  - housing: 0.0059
+  - how: 0.0022
+  - community: 0.0011
+  - do: 0.0000
+  - the: 0.0000
+  - new: 0.0000
+  - regulations: 0.0000
+--------------------------------------------------
+
+Query: What difficulties do families face due to increasing housing expenses?
+Top Retrieved Documents:
+Document 7: Relevance Score = 0.0023
+Document 17: Relevance Score = 0.0021
+Document 9: Relevance Score = 0.0019
+Document 16: Relevance Score = 0.0018
+
+Retrieved Document Term Contributions:
+
+Document 7 Term Breakdown:
+  - increasing: 0.0083
+  - housing: 0.0083
+  - due: 0.0061
+  - what: 0.0000
+  - difficulties: 0.0000
+  - do: 0.0000
+  - families: 0.0000
+  - face: 0.0000
+  - to: 0.0000
+  - expenses: 0.0000
+
+Document 17 Term Breakdown:
+  - difficulties: 0.0071
+  - housing: 0.0045
+  - due: 0.0033
+  - what: 0.0028
+  - do: 0.0028
+  - families: 0.0000
+  - face: 0.0000
+  - to: 0.0000
+  - increasing: 0.0000
+  - expenses: 0.0000
+
+Document 9 Term Breakdown:
+  - due: 0.0102
+  - families: 0.0089
+  - what: 0.0000
+  - difficulties: 0.0000
+  - do: 0.0000
+  - face: 0.0000
+  - to: 0.0000
+  - increasing: 0.0000
+  - housing: 0.0000
+  - expenses: 0.0000
+
+Document 16 Term Breakdown:
+  - expenses: 0.0068
+  - due: 0.0041
+  - do: 0.0035
+  - families: 0.0035
+  - what: 0.0000
+  - difficulties: 0.0000
+  - face: 0.0000
+  - to: 0.0000
+  - increasing: 0.0000
+  - housing: 0.0000
+--------------------------------------------------
+
+Query: In what ways does unstable housing influence the psychological well-being of individuals?
+Top Retrieved Documents:
+Document 12: Relevance Score = 0.0018
+Document 4: Relevance Score = 0.0017
+Document 18: Relevance Score = 0.0014
+Document 8: Relevance Score = 0.0010
+
+Retrieved Document Term Contributions:
+
+Document 12 Term Breakdown:
+  - influence: 0.0072
+  - housing: 0.0059
+  - individuals: 0.0050
+  - in: 0.0002
+  - what: 0.0000
+  - ways: 0.0000
+  - does: 0.0000
+  - the: 0.0000
+  - wellbeing: 0.0000
+  - of: 0.0000
+
+Document 4 Term Breakdown:
+  - wellbeing: 0.0107
+  - individuals: 0.0057
+  - in: 0.0002
+  - what: 0.0000
+  - ways: 0.0000
+  - does: 0.0000
+  - housing: 0.0000
+  - influence: 0.0000
+  - the: 0.0000
+  - of: 0.0000
+
+Document 18 Term Breakdown:
+  - individuals: 0.0077
+  - what: 0.0057
+  - in: 0.0002
+  - ways: 0.0000
+  - does: 0.0000
+  - housing: 0.0000
+  - influence: 0.0000
+  - the: 0.0000
+  - wellbeing: 0.0000
+  - of: 0.0000
+
+Document 8 Term Breakdown:
+  - ways: 0.0039
+  - individuals: 0.0033
+  - what: 0.0025
+  - in: 0.0001
+  - does: 0.0000
+  - housing: 0.0000
+  - influence: 0.0000
+  - the: 0.0000
+  - wellbeing: 0.0000
+  - of: 0.0000
+--------------------------------------------------
+
+Query: What services exist to promote mental wellness in local communities?
+Top Retrieved Documents:
+Document 12: Relevance Score = 0.0018
+Document 14: Relevance Score = 0.0013
+Document 4: Relevance Score = 0.0012
+Document 19: Relevance Score = 0.0011
+
+Retrieved Document Term Contributions:
+
+Document 12 Term Breakdown:
+  - mental: 0.0072
+  - communities: 0.0072
+  - in: 0.0002
+  - what: 0.0000
+  - services: 0.0000
+  - to: 0.0000
+  - promote: 0.0000
+  - local: 0.0000
+
+Document 14 Term Breakdown:
+  - services: 0.0050
+  - promote: 0.0050
+  - in: 0.0001
+  - what: 0.0000
+  - to: 0.0000
+  - mental: 0.0000
+  - local: 0.0000
+  - communities: 0.0000
+
+Document 4 Term Breakdown:
+  - communities: 0.0082
+  - local: 0.0015
+  - in: 0.0002
+  - what: 0.0000
+  - services: 0.0000
+  - to: 0.0000
+  - promote: 0.0000
+  - mental: 0.0000
+
+Document 19 Term Breakdown:
+  - mental: 0.0052
+  - what: 0.0027
+  - local: 0.0010
+  - in: 0.0001
+  - services: 0.0000
+  - to: 0.0000
+  - promote: 0.0000
+  - communities: 0.0000
+--------------------------------------------------
